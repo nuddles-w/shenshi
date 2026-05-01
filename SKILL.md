@@ -1,5 +1,5 @@
 ---
-name: shenshen
+name: shenshi
 description: >
   神识·创作者蒸馏。扫描任意平台的内容创作者（小红书、抖音、TikTok、Twitter、
   微博、播客等），提炼其内容 DNA，生成可复用的创作者分身 skill 文件。
